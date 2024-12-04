@@ -9,9 +9,7 @@ This project implements a **Binary Logistic Regression** model using a custom im
 4. [Getting Started](#getting-started)
 5. [Implementation](#implementation)
 6. [Results](#results)
-7. [Visualization](#visualization)
-8. [License](#license)
-
+7. [Contribution](#Contribution)
 ---
 
 ## Overview
@@ -74,6 +72,23 @@ The script performs the following steps:
 <b>Visualization:</b> A loss curve is plotted to visualize the model’s progress over iterations.
 
 
+
 <I>The code : `binary_logistic_with_PCA.py` uses PCA to plot the decision boundary using 2 features.</I>
-   
-   
+
+
+
+## Results 
+
+### 1. Loss Curve 
+![Loss Curve](LogLoss.png)
+
+### 2. Decision Boundary 
+![Decsion Boundary](DecisionBoundary.png)
+
+
+## Contribution
+
+At the end, I request the people to help me correct any mistakes in this code or any other codes written by me (uploaded on github) by making rightful contributions. <br>
+Thanks! <br>
+Danke till then !!
+
